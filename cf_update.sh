@@ -37,6 +37,6 @@ do
     echo "skipping $i as it does not have Custom Origin Timeout (origin is  just S3)"
   fi
 done
-
+clean
 
     
